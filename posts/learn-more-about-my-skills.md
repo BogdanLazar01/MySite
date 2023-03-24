@@ -6,32 +6,66 @@ excerpt: Here you can read more about my academic as well as self-acquired skill
 isFeatured: true
 ---
 
-# This is a title
+# Education
 
-This is some regular text with a [link](https://google.com)
+- 2020-2023 Bachelor’s of Applied Computer Science: Artificial Intelligence, Thomas More, Geel.
+- 2015-2019 European School of Brussels number 4, Laeken, Brussels
+- 2008-2014 National School Zoia Alecu, Bucharest
+- 2007-2008; 2014-2015 National School Oprea D Iorgulescu, Campulung, Arges
 
-NextJS is a **framework for ReactJS**.
+# Work experience
 
-Wait a second ... a "framework" for React? Isn't React itself already a framework for JavaScript?
+- 2023 MyGamePlan (mygameplan.ai) internship: React front-end development
+- 2023 Thomas More Project 4.0: Web shop project for Elision (Front-end development)
+- 2022 Erasmus Student Network (ESN) Geel Event & Communication team
+- 2016 Working experience at Research Executive Agency of the European Commission
+- 2016 Working experience at European Research Council Executive Agency of the European Commission.
 
-Well ... first of all, React is a "library" for JavaScript. That seems to be important for some people.
+# Skills
 
-Not for me, but still, there is a valid point: React already is a framework / library for JavaScript. So it's already an extra layer on top of JS.
+## Technical
 
-## Why would we then need NextJS?
+These include skills gained from personal endeavors as well as my studies at the [Thomas More University of Applied Sciences](https://www.thomasmore.be/?gclid=Cj0KCQiAx6ugBhCcARIsAGNmMbgjLE3C_DV3chP0ffYEqjEwFluieK5c7U-XAhf5dhWk2kUe7zyHuD8aAiBJEALw_wcB).
 
-Because NextJS makes building React apps easier - especially React apps that should have server-side rendering (though it does way more than just take care of that).
+**Full-stack/Back-end development**:
+- Java (Springboot)
+- C# (.NET, ASP.NET)
+- Laravel
 
-In this article, we'll dive into the core concepts and features NextJS has to offer:
+**Front-end development**: 
+- Bootstrap
+- HTML
+- JQuery
+- SASS
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- Cordova.js
 
-- File-based Routing
-- Built-in Page Pre-rendering
-- Rich Data Fetching Capabilities
-- Image Optimization
-- Much More
+**Data Science**: 
+- Python
+- Qlik Sense
+- R
+- SQL
 
-## File-based Routing
+**DevOps**: 
+- GitHub
+- Docker
 
-![Create routes via your file + folder structure](certificate.jpg)
+**Others**:
+- Video editing in Adobe Premiere Pro
+- Image manipulation in Adobe Photoshop
+- Basic mechanical skills
 
-... More content ...
+## Soft skills
+
+- Committed to what I do 
+- Determined, Resilient, Physically capable 
+- Good skills in language speech especially English (C1) and French
+- 5 years experience in Karate.
+
+# Want to learn even more?
+There are more resources you can consult in order to get to know me better. This website includes other posts about who I am and what I do.
+
+There are also external resources including my [GitHub](https://github.com/BogdanLazar01?tab=repositories) and my [LinkedIn Profile](https://www.linkedin.com/in/bogdan-lazar-4110841b3/).
