@@ -2,7 +2,7 @@
 title: Learn more about my internship
 date: "2023-05-15"
 image: my-skills.jpg
-excerpt: Here you can read more about my academic as well as self-acquired skills. From certifications to other things like notable projects
+excerpt: Here you can read more about my awesome internship at MyGamePlan.
 isFeatured: true
 ---
 
