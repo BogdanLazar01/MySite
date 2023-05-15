@@ -1,7 +1,3 @@
-## Brief description
-
-This is a personal portfolio made with Next.js. It's made in a blog site format.
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
