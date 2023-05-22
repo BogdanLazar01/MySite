@@ -28,7 +28,7 @@ This was a first proper working experience as part of an IT e-commerce solutions
 
 The idea was not only to get us out of our comfort zone as students but to also bring Cloud & Cybersecurity, Application Development and Artificial Intelligence together in one team to simulate the real dynamic of an IT work landscape.
 
-[Project documentation](/downloads/activity/project-handover.docx)
+[Project documentation](/downloads/activity/ProjectHandover.docx)
 
 ## European Research Executive Agency (REA) (January 2016 (1 week))
 
@@ -37,3 +37,23 @@ During this experience, I was tasked with the development of an application wher
 ## European Executive Research Council Executive Agency (ERCEA) (January 2016 (after the above))
 
 During this work experience, me and a classmate were tasked with the tracking of an organisation's progress with scientific research funded by the European Commission. We were given company names and we had to gather evidence to then support whether or not these companies were actually breaking ground or not in their research.
+
+# Thomas More - Applied Computer Science: notable projects
+
+## Deep Learning - Image Classification project
+
+This was a project that was done while studying AI in the Thomas More University of Applied Sciences on my 3rd year. The problem at hand was to get a computer vision model to identify images of certain car makes and models based on a data set of images.
+
+[Colab notebook](https://drive.google.com/file/d/1bCT2YO4Z4sS8BvywYXM3HbVcnu8y9SgO/view?usp=sharing)
+
+## Machine Learning - Benchmarking 2 Machine Learning algorithms
+
+This was another project done while studying AI. In this case a comparison was made between 3 different Machine Learning algorithms based on a dataset about cars and their properties. Data was taken from a set based on a csv file.
+
+[Colab notebook](https://colab.research.google.com/drive/11MgZ2MY94dPDzkF_JJ4gYF-36DE4DDg5?usp=sharing)
+
+## Enterprise Content Services - Providing a SharePoint enterprise site for Frixion
+
+This was a project where me and some classmates have worked together to provide a solution in Microsoft's SharePoint for Frixion, a belgian IT company, to have better means for business processes such as communication among the staff or with customers.
+
+[Project documentation](/downloads/classProjects/EnterpriseContentServicesProject.docx)
