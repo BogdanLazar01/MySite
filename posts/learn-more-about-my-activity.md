@@ -26,7 +26,7 @@ This internship was done as part of my senior year in the Thomas More University
 
 This was a first proper working experience as part of an IT e-commerce solutions providing organization and the big project I had to do on my senior year at Thomas More (Project 4.0). This was Elision of the Cronos Groep for whom we had to provide an e-commerce application in 2 weeks of realization precedented by 2 weeks of research and learning the never-before-seen-by-me-and-my-team technologies.
 
-The idea was not only to get us out of our comfort zone as students but to also bring Cloud & Cybersecurity, Application Development and Artificial Intelligence together in one team to simulate the real dynamic of an IT work landscape.
+I was responsible for fetching the data in our headless CMS (Contentful), breaking our listings down into categories and then listing products per each category, and indexing it in Algolia to then implement a search bar using Algolia's AI for product search. The idea was not only to get us out of our comfort zone as students but to also bring Cloud & Cybersecurity, Application Development and Artificial Intelligence together in one team to simulate the real dynamic of an IT work landscape.
 
 [Project documentation](/downloads/activity/ProjectHandover.docx)
 
