@@ -2,8 +2,8 @@
 title: Learn more about my activity
 date: "2023-02-21"
 image: my-skills.jpg
-excerpt: Here you can read more about what I have achieved in spades.
-isFeatured: false
+excerpt: Here you can read more about my most notable achievements and projects.
+isFeatured: true
 ---
 
 # Certificates
