@@ -40,6 +40,12 @@ During this experience, I was tasked with the development of an application wher
 
 During this work experience, me and a classmate were tasked with the tracking of an organisation's progress with scientific research funded by the European Commission. We were given company names and we had to gather evidence to then support whether or not these companies were actually breaking ground or not in their research.
 
+## Erasmus Student Network Geel - Event & communication team (since September 2022)
+
+In September of 2022 I joined ESN Geel in order to take part in organizing and organise events for international students. In here I helped out with organizing fun events for students as well as organised my own event.
+
+I took the helm on organising a charity event whereby students could donate everyday items such as shaving cream, toothpaste, clothes, blankets etc. to 2 organisations in Brussels. Sister House is an organisation sheltering mostly victims of domestic abuse, and Humanitarian Hub is a partner of the Red Cross, helping asylum seekers to get by in their fresh start.
+
 # Thomas More - Applied Computer Science: notable projects
 
 ## Deep Learning - Image Classification project
