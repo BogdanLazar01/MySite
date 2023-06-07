@@ -1,8 +1,9 @@
-import { ReactMarkdown } from "react-markdown/lib/react-markdown";
+import ReactMarkdown from "react-markdown";
 import Image from "next/image";
 
 import PostHeader from "./post-header";
 import classes from "./post-content.module.css";
+import Link from "next/link";
 
 function PostContent(props) {
   const { post } = props;
@@ -10,16 +11,6 @@ function PostContent(props) {
   const imagePath = `/images/posts/${post.slug}/${post.image}`;
 
   const customRenderers = {
-    // img(image) {
-    //   return (
-    //     <Image
-    //       src={`/images/posts/${post.slug}/${image.src}`}
-    //       alt={image.alt}
-    //       width={300}
-    //       height={500}
-    //     />
-    //   );
-    // },
     p(paragraph) {
       const { node } = paragraph;
 
@@ -38,8 +29,13 @@ function PostContent(props) {
         );
       }
 
-      return <p>{paragraph.children}</p>
+      return <p>{paragraph.children}</p>;
     },
+    a: ({ children, href }) => (
+      <a href={href} target="_blank" rel="noopener noreferrer">
+        {children}
+      </a>
+    ),
   };
 
   return (
