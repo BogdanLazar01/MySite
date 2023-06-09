@@ -6,7 +6,7 @@ excerpt: Here you can read more about my awesome internship at MyGamePlan.
 isFeatured: true
 ---
 
-# My internship at MyGamePlan
+# Front-end developer @MyGamePlan
 
 Between 27th of February and 2nd of June 2023, I followed an internship at [MyGamePlan](https://www.mygameplan.ai/). This great company aims to automate many cumbersome processes still currently needing attention by personnel in Football teams.
 

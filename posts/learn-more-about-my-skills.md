@@ -6,76 +6,27 @@ excerpt: Here you can read more about my academic as well as self-acquired skill
 isFeatured: true
 ---
 
-# Education
+# Who am I?
 
-- 2020-2023 Bachelor’s of Applied Computer Science: Artificial Intelligence, Thomas More, Geel.
-- 2015-2019 European School of Brussels number 4, Laeken, Brussels
-- 2008-2014 National School Zoia Alecu, Bucharest
-- 2007-2008; 2014-2015 National School Oprea D Iorgulescu, Campulung, Arges
+I have a strong passion for IT in general. I was born and raised around computers and spent most of my life interacting with them.
 
-# Work experience
+This, combined with my keen interest to learn more about how everything works behind the scenes, has provided me with a hunger to learn more about the world of IT. This led me to not only pursue a major in IT, but also to pursue my own studies.
 
-Read all about my working experiences [here](/posts/learn-more-about-my-activity)
+During my time in Thomas More, I have acquired multiple IT-related as well as soft skills. I technically tackled embedded solutions with micro-devices such as the Arduino and the Raspberry Pi, learned operational skills from version control in Git to system administration in both Linux and Windows, learned object-oriented programming in C# and Java which stemmed into web development (ASP.NET, Springboot etc.), data engineering, data science, AI and more.
 
-- 2023 MyGamePlan (mygameplan.ai) internship: React front-end development
-- 2023 Thomas More Project 4.0: Web shop project for Elision (Front-end development)
-- 2022 Erasmus Student Network (ESN) Geel Event & Communication team
-- 2016 Working experience at Research Executive Agency of the European Commission
-- 2016 Working experience at European Research Council Executive Agency of the European Commission.
+My journey into coding started with the most basic technologies in web development, which I further studied in Thomas More. Afterwards, I started delving into more complex solutions, such as the aforementioned C# and Java based examples but also in PHP with Laravel as the framework, and later on in React and Next.js.
 
-# Skills
+I also picked up lots of soft skills, having to work with people in certain projects that were assigned to us by Thomas More. I learned that teamwork is very important based on the size of the project and, within such an environment, communication is key.
 
-## Technical
-
-These include skills gained from personal endeavors as well as my studies at the [Thomas More University of Applied Sciences](https://www.thomasmore.be/?gclid=Cj0KCQiAx6ugBhCcARIsAGNmMbgjLE3C_DV3chP0ffYEqjEwFluieK5c7U-XAhf5dhWk2kUe7zyHuD8aAiBJEALw_wcB).
-
-**Full-stack/Back-end development**:
-
-- Java (Springboot)
-- C# (.NET, ASP.NET)
-- Laravel
-- Next.js
-
-**Front-end development**:
-
-- Bootstrap
-- HTML
-- JQuery
-- SASS
-- React.js (includes Redux and Redux toolkit)
-- JavaScript
-- TypeScript
-- Cordova.js
-
-**Data Science**:
-
-- Python (Machine Learning, Application Development)
-- Qlik Sense (Data modeling, Data visualization)
-- R (Data modeling, visualization)
-- SQL (Data modeling)
-
-**DevOps**:
-
-- GitHub
-- Docker
-- Linux
-- Windows 10 System Administration
-
-**Others**:
-
-- Video editing in Adobe Premiere Pro
-- Image manipulation in Adobe Photoshop
-- Basic mechanical skills
-
-## Soft skills
-
-- Committed to what I do
-- Determined, Resilient, Physically capable
-- Good skills in language speech especially English (C1) and French
-- 5 years experience in Karate.
+My interest for coding has only become stronger as I also discovered what it's like to work in a real company on such a job. Needless to say, my journey is far from over.
 
 # Want to learn even more?
+
+Make sure to check out [My Activity](/posts/learn-more-about-my-activity) where I discuss some of my most notable projects in more detail.
+
+See some of my work in action or contact me via the following links:
 
 - [GitHub](https://github.com/BogdanLazar01?tab=repositories)
 - [LinkedIn Profile](https://www.linkedin.com/in/bogdan-lazar-4110841b3/)
 - [Curriculum vitae](/downloads/CV.docx)
+- [Email](mailto:lazarb513@gmail.com)

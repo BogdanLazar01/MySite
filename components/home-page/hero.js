@@ -15,7 +15,9 @@ function Hero() {
       </div>
       <h1>Hi, I'm Bogdan</h1>
       <p>
-        I blog about my skills and hobbies. This is the place to learn more about who I am.
+        This is where you'll find everything you need to know about me. From
+        personal achievements, to real work experiences and notable projects,
+        all in a blog post format.
       </p>
     </section>
   );

@@ -3,7 +3,6 @@ import Image from "next/image";
 
 import PostHeader from "./post-header";
 import classes from "./post-content.module.css";
-import Link from "next/link";
 
 function PostContent(props) {
   const { post } = props;
@@ -31,11 +30,29 @@ function PostContent(props) {
 
       return <p>{paragraph.children}</p>;
     },
-    a: ({ children, href }) => (
-      <a href={href} target="_blank" rel="noopener noreferrer">
-        {children}
-      </a>
-    ),
+    a: ({ children, href }) => {
+      if (isExternalLink(href) || isFileDownloadLink(href)) {
+        return (
+          <a href={href} target="_blank" rel="noopener noreferrer">
+            {children}
+          </a>
+        );
+      } else {
+        return <a href={href}>{children}</a>;
+      }
+    },
+  };
+
+  const isExternalLink = (href) => {
+    return (
+      href.startsWith("http://") ||
+      href.startsWith("https://") ||
+      href.startsWith("mailto:")
+    );
+  };
+
+  const isFileDownloadLink = (href) => {
+    return href.startsWith("/downloads");
   };
 
   return (
