@@ -1,9 +1,9 @@
 ---
-title: Learn more about my activity
+title: My activity
 date: "2023-02-21"
 image: my-skills.jpg
 excerpt: Here you can read more about my most notable achievements and projects.
-isFeatured: false
+isFeatured: true
 ---
 
 # Certificates
@@ -24,7 +24,11 @@ I was responsible for fetching the data in our headless CMS (Contentful), breaki
 
 The idea was not only to get us out of our comfort zone as students but to also bring Cloud & Cybersecurity, Application Development and Artificial Intelligence together in one team to simulate the real dynamic of an IT work landscape.
 
-We ultimately got a very basic webshop up and running with styling definitely not at its best and without a shopping cart for better UX but nevertheless payment was possible using the checkout page which was linked to the back-end written in Java Springboot and using Adyen. Adjusting item quantity was also possible in this same place.
+We ultimately got a webshop in Next.js up and running with all of the functionalities required for our proof of concept. The user was able to browse products by category, search for the products using Algolia, see the product details and order a product. The styling was in the end serviceable for a basic webshop UX.
+
+You can watch a demo/promo of this project [here](https://youtu.be/TnUKmzZM1Qc).
+
+Below you will find the full documentation of the project.
 
 [Project documentation](/downloads/activity/ProjectHandover.docx)
 
@@ -42,6 +46,8 @@ I took the helm on organising a charity event whereby students could donate ever
 
 As far as this notable event is concerned, we managed to raise quite a couple of everyday items to donate to these 2 charities over in Brussels.
 
+![ESN certificate](esn-certificate.jpeg)
+
 # Thomas More - Applied Computer Science: notable projects
 
 ## Z15810 - Artificial Intelligence project
@@ -53,6 +59,12 @@ This was a project that was done while studying AI in the Thomas More University
 The approach taken was to scrape all of the images for the dataset from the web. After the scraper collected the necessary data, it would be split into training, validation and test sets for each image category.
 
 Then a pre-trained resnet50 network was trained using the training set of each category after which a validation set was taken away to assess the performance of the model and a test set was used in order to have the model predict what some images represented.
+
+Here is the confusion matrix of the model:
+
+![confusion matrix DL](confusion-matrixDL.PNG)
+
+Find out more about the step-by-step process here:
 
 [Colab notebook](https://drive.google.com/file/d/1bCT2YO4Z4sS8BvywYXM3HbVcnu8y9SgO/view?usp=sharing)
 
@@ -76,6 +88,8 @@ This was a project where me and some classmates have worked together to provide 
 
 My job here was to provide the user with a way to automatically generate a sharepoint space for a project whenever a new one was introduced in the SharePoint site in the overall list of projects. The final result was exactly what was needed: a document library, a file storage as well as the people involved in the project (users within the Sharepoint site including the customer).
 
-We ultimately got a very basic SharePoint site up and running with a very basic layout but ultimately it conformed to most of the requirements given to us by Frixion.
+![Sharepoint project site](project-site-SP.png)
+
+We ultimately got a very basic SharePoint site up and running with a very basic layout which ultimately conformed to most of the requirements given to us by Frixion.
 
 [Project documentation](/downloads/classProjects/EnterpriseContentServicesProject.docx)

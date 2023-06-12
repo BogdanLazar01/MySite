@@ -1,12 +1,10 @@
 ---
-title: Learn more about my internship
+title: My internship
 date: "2023-05-15"
 image: my-skills.jpg
 excerpt: Here you can read more about my awesome internship at MyGamePlan.
 isFeatured: true
 ---
-
-# Front-end developer @MyGamePlan
 
 Between 27th of February and 2nd of June 2023, I followed an internship at [MyGamePlan](https://www.mygameplan.ai/). This great company aims to automate many cumbersome processes still currently needing attention by personnel in Football teams.
 
@@ -25,6 +23,8 @@ My mission was to help MyGamePlan, a startup currently going strong in its devel
 This internship consisted of the real software engineer experience. Like everyone else I met, I had to sit through morning stand-ups where I would communicate my goals for the day and would update the team on my progress.
 
 I was tasked with several features to be developed for the app, most notably the refactor from Atlassian's AtlasKit component library to Google's MaterialUI. While the pattern of my work might seem similar from day to day in this time period, the challenges were never too repetitive. Every new feature came with more challenges than met the naked eye.
+
+![Components page: for devs](mgp-components-material.png)
 
 Lastly, I want to mention that within this time period lots of fun memories were also created. Besides the meetings and the written code, the team always had its way to keep us all motivated with a special End of Week meeting where we would discuss the company's progress in its mission.
 
