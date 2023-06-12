@@ -1,5 +1,5 @@
 ---
-title: Learn more about me
+title: About me
 date: "2023-02-19"
 image: my-skills.jpg
 excerpt: Here you can read more about my academic as well as self-acquired skills.

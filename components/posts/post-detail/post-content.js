@@ -16,13 +16,22 @@ function PostContent(props) {
       if (node.children[0].tagName === "img") {
         const image = node.children[0];
 
+        const { src, alt } = node.properties;
+        const imageSize = getImageSize(src);
+
+        const imageStyle = {
+          objectFit:
+            getImageOrientation(src) === "square" ? "cover" : "contain",
+        };
+
         return (
           <div className={classes.image}>
             <Image
               src={`/images/posts/${post.slug}/${image.properties.src}`}
-              alt={image.alt}
-              width={300}
-              height={500}
+              alt={alt}
+              width={imageSize.width}
+              height={imageSize.height}
+              style={imageStyle}
             />
           </div>
         );
@@ -41,6 +50,32 @@ function PostContent(props) {
         return <a href={href}>{children}</a>;
       }
     },
+  };
+
+  const getImageSize = (src) => {
+    // Custom logic to determine the image size based on the image source (src)
+    // You can implement your own logic here based on the image's aspect ratio or any other criteria.
+
+    // Example logic:
+    const imageOrientation = getImageOrientation(src);
+    const width = imageOrientation === "square" ? 300 : 400;
+    const height = imageOrientation === "square" ? 300 : 300;
+
+    return { width, height };
+  };
+
+  const getImageOrientation = (src) => {
+    // Custom logic to determine the image orientation based on the image source (src)
+    // You can implement your own logic here based on the image's aspect ratio or any other criteria.
+
+    // Example logic:
+    if (/\bsquare\b/.test(src)) {
+      return "square";
+    } else if (/\bportrait\b/.test(src)) {
+      return "portrait";
+    } else {
+      return "landscape";
+    }
   };
 
   const isExternalLink = (href) => {
